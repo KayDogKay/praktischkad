@@ -1,0 +1,45 @@
+{
+  "config": {
+    "firmenname": "Praktisch KAD",
+    "slogan": "Praktisch gedacht – präzise gemacht. Ihr Partner für Websichtbarkeit.",
+    "telefon": "+49 000 000 00 00",
+    "telefon_link": "tel:+490000000000",
+    "whatsapp_nummer": "490000000000"
+  },
+  "hero": {
+    "titel": "Websites, die ranken. Leads, die konvertieren.",
+    "subline": "Kein Baukastensystem. Kein Template-Einheitsbrei. Handwerklich präzise entwickelte Weblösungen für Betriebe, die sichtbar wachsen wollen."
+  },
+  "leistungen": [
+    {
+      "id": "webdesign",
+      "icon": "⚡",
+      "titel": "High-Performance Webdesign",
+      "desc": "Code-first. Kein Pagebuilder, kein Overhead. Lighthouse-Score 95+ by default. Ihre Website lädt unter 1,5 Sekunden – oder wir arbeiten weiter.",
+      "tag": "Core"
+    },
+    {
+      "id": "seo",
+      "icon": "📡",
+      "titel": "SEO-Architektur",
+      "desc": "Technisches SEO von Grund auf: semantisches HTML5, strukturierte Daten (Schema.org), Core Web Vitals im grünen Bereich. Sichtbarkeit ist Architektur, nicht Zufall.",
+      "tag": "Sichtbarkeit"
+    },
+    {
+      "id": "leads",
+      "icon": "🎯",
+      "titel": "Lead-Generierung",
+      "desc": "Conversion-optimierte Seitenstruktur, klare CTAs, mobile-first Kontaktstrecken. Jeder Besucher bekommt den direkten Weg zu Ihnen.",
+      "tag": "Konversion"
+    }
+  ],
+  "about": {
+    "statement": "Wir bauen keine schönen Websites. Wir bauen Akquisewerkzeuge.",
+    "punkte": [
+      "Pures HTML/CSS/JS – null Abhängigkeiten, null Angriffsfläche",
+      "Jede Seite individuell entwickelt, kein Template-Recycling",
+      "Übergabe inkl. vollständiger technischer Dokumentation",
+      "Laufende Pflege auf Anfrage – kein Abo-Zwang"
+    ]
+  }
+}
